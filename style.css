@@ -1,0 +1,29 @@
+/*Así se pone un comentario */ 
+body{
+    background-color: bisque; /*Color de fondo*/
+    color: #fffb4d; /*Color de letra*/
+    /*font-family: cursive; Tipo de fuente/letra*/
+    font-family: 'Poppins', sans-serif;
+} /*Editando lo que hay en body del html*/
+
+h1, p{
+    color: #ff9538;
+} /*Editando lo que hay en h1 y p del html*/
+
+h3{
+    font-size: 30px;
+}/*Editando lo que hay en h3 del html*/
+
+img{
+    width: 300px;
+    height: 180px;
+    border-style: dotted;
+    border-width: 10px;
+    border-color: #ff9538;
+    padding: 20px;
+    margin: 20px;
+}/*Editando lo que hay en img del html*/
+
+/*a{
+
+}*/
